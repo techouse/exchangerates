@@ -2,12 +2,6 @@
 
 A simple desktop app that displays current and historic monetary exchange rates.
 
-### What is this repository for? ###
-
-* Info
-* Fun
-* Definitely nothing serious :D
-
 ### 3rd Party Dependencies ###
 
 * [JFreeChart](http://www.jfree.org/jfreechart/)
